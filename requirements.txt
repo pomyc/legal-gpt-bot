@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+openai==1.33.0
+requests
+duckduckgo-search==4.4
